@@ -1,4 +1,4 @@
-package warmpUp
+package warmUp
 
 import java.io.File
 import kotlin.math.abs

@@ -1,4 +1,4 @@
-package warmpUp
+package warmUp
 
 fun histogram() {
     val input = generateSequence(::readLine).toList().joinToString("")
