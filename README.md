@@ -10,3 +10,4 @@
 - [Динамическое программирование с двумя параметрами](https://github.com/LostImagin4tion/Yandex_AlgorithmTraining/tree/master/src/main/kotlin/dpTwoParameters)
 - [Обход в глубину](https://github.com/LostImagin4tion/Yandex_AlgorithmTraining/tree/master/src/main/kotlin/dfs)
 - [Обход в ширину](https://github.com/LostImagin4tion/Yandex_AlgorithmTraining/tree/master/src/main/kotlin/bfs)
+- [Финальный контест](https://github.com/LostImagin4tion/Yandex_AlgorithmTraining/tree/master/src/main/kotlin/finalContest)
